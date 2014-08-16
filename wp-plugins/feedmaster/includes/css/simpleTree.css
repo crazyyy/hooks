@@ -1,0 +1,11 @@
+.simpleTree li div.menu {
+	font-size: 12px;
+}
+
+.simpleTree li div.menu a.off {
+	color: #aaa;
+}
+
+.simpleTree li div.menu a.on {
+	font-weight: bold;
+}
