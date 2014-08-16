@@ -1,0 +1,11 @@
+V1.1.0: - Support for unlimited protected content on a single page
+		- Basic statistics added
+		- Possibility to have a custom css file outside the plugin directory added
+		- wpmudev_wpal function to be used for custom post type templates added
+		- Deprecated message for PHP5.3 fixed
+		- Embedded scripts are moved to the footer for W3C and better performance and problems with some themes
+		- Improvement of UI in post editor and settings page
+		- Fixed setcookie issue when zero or empty value is entered
+V1.0.0: Initial release
+
+25167-1340541227

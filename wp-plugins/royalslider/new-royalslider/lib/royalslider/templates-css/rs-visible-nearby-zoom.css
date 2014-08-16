@@ -1,0 +1,54 @@
+.visibleNearbyZoom {
+  color: #FFF;
+  padding-top: 25px;
+}
+.visibleNearbyZoom .rsGCaption {
+  font-size: 16px;
+  line-height: 18px;
+  padding: 12px 0 16px;
+  background: #141414;
+  color:#FFF;
+  width: 100%;
+  position: static;
+  float: left;
+  left: auto;
+  bottom: auto;
+  text-align: center;
+}
+.rsGCaption h5 {
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+.visibleNearbyZoom .rsGCaption span {
+  display: block;
+  clear: both;
+  color: #bbb;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+
+/* Scaling transforms */
+.visibleNearbyZoom .rsSlide img {
+  opacity: 0.45;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+
+  -webkit-transform: scale(0.9);  
+  -moz-transform: scale(0.9); 
+  -ms-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  transform: scale(0.9);
+}
+.visibleNearbyZoom .rsActiveSlide img {
+  opacity: 1;
+  -webkit-transform: scale(1);  
+  -moz-transform: scale(1); 
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1);
+}

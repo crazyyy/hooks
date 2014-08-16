@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pay with a Like\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-06 13:12+0200\n"
+"PO-Revision-Date: 2012-06-06 13:34+0200\n"
+"Last-Translator: Игорь <znamensky98@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pay-with-a-like.php:112
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../pay-with-a-like.php:530
+msgid "Something went wrong. Please refresh the page and try again."
+msgstr "Что-то пошло не так... Пожалуйста, обновите страницу и попробуйте еще раз."
+
+#: ../pay-with-a-like.php:622
+#: ../pay-with-a-like.php:931
+#: ../pay-with-a-like.php:1634
+msgid "Pay With a Like"
+msgstr "Заплати &laquo;Лайк&raquo;-ом"
+
+#: ../pay-with-a-like.php:647
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../pay-with-a-like.php:648
+msgid "Disabled"
+msgstr "Выключено"
+
+#: ../pay-with-a-like.php:649
+msgid "Automatic excerpt"
+msgstr "Автоматически"
+
+#: ../pay-with-a-like.php:650
+msgid "Manual excerpt"
+msgstr "Из поля &laquo;Цитата&raquo;"
+
+#: ../pay-with-a-like.php:651
+#: ../pay-with-a-like.php:1110
+msgid "Use selection tool"
+msgstr "С помощью шорткода"
+
+#: ../pay-with-a-like.php:654
+msgid "page"
+msgstr "страница"
+
+#: ../pay-with-a-like.php:656
+msgid "post"
+msgstr "пост"
+
+#: ../pay-with-a-like.php:734
+#: ../pay-with-a-like.php:757
+msgid "Follow global setting"
+msgstr "Как в глобальных настройках"
+
+#: ../pay-with-a-like.php:735
+msgid "Always enabled"
+msgstr "Всегда включено"
+
+#: ../pay-with-a-like.php:736
+msgid "Always disabled"
+msgstr "Всегда выключено"
+
+#: ../pay-with-a-like.php:740
+msgid "Enabled?"
+msgstr "Включить?"
+
+#: ../pay-with-a-like.php:744
+#, php-format
+msgid "Selects if Pay With a Like is enabled for this %s or not. If Follow global setting is selected, General Setting page selection will be valid. Always enabled and Always disabled selections will enable or disable Pay With a Like for this %s, respectively, overriding general setting."
+msgstr "Выберите, будет ли влиять плагин Заплати «Лайк»-ом на %s или нет. Если выбран режим &laquo;Как в глобальных настройках&raquo;, работа плагина будет основана на этих настройках. &laquo;Всегда включено&raquo; или &laquo;Всегда выключено&raquo;,  соответственно, включит или отключит влияние плагина на %s, получив приоритет над глобальными настройками."
+
+#: ../pay-with-a-like.php:748
+msgid "Effective status"
+msgstr "Текущий статус"
+
+#: ../pay-with-a-like.php:752
+#, php-format
+msgid "Effective status dynamically shows the final result of the setting that will be applied to this %s. Disabled means Pay With a Like will not work for this %s. It takes global settings into account and helps you to check if your intention will be correctly reflected to the settings after you save."
+msgstr "Текущий статус показывает, оказывает ли сейчас плагин влияние на %s. &laquo;Выключено&raquo; значит, что плагин действия на %s не оказывает."
+
+#: ../pay-with-a-like.php:763
+msgid "Method"
+msgstr "Способ формирования тизера"
+
+#: ../pay-with-a-like.php:767
+#, php-format
+msgid "Selects the content protection method for this %s. If Follow Global Setting is selected, method selected in General Settings page will be applied. If you want to override general settings, select one of the other methods. With Use Selection Tool you need to select each content using the icon %s on the editor tool bar. For other methods refer to the settings page."
+msgstr "Установка способа сокрытия контента на этот %s. В режиме &laquo;С помощью шорткода&raquo; выделяйте необходимые блоки текста, кликнув по этой кнопке в панели текстового редактора: %s."
+
+#: ../pay-with-a-like.php:771
+msgid "Effective method"
+msgstr "Установленный метод"
+
+#: ../pay-with-a-like.php:775
+#, php-format
+msgid "Effective method dynamically shows the final result of the setting that will be applied to this %s. It takes global settings into account and helps you to check if your intention will be correctly reflected to the settings after you save."
+msgstr "Установленный метод формирования анонса (тизера) показывает,  каким образом формируется тизер на этот %s."
+
+#: ../pay-with-a-like.php:781
+msgid "Excerpt length"
+msgstr "Количество слов в тизере"
+
+#: ../pay-with-a-like.php:785
+#, php-format
+msgid "If you want to override the number of words that will be used as an excerpt for the unprotected content, enter it here. Please note that this value is only used when Automatic Excerpt method is applied to the %s."
+msgstr "Если Вы хотите перезаписать количество слов в анонсе, указанное в основных настройках, введите сюда соответствующее число. Не забывайте, что данный параметр окажет влияние на этот %s только в том случае, если выбран Автоматический метод формирования тизера."
+
+#: ../pay-with-a-like.php:901
+msgid "To see the full content, share this page by clicking one of the buttons below"
+msgstr "Если Вы хотите увидеть содержимое всей статьи, кликните по одной из этих кнопок"
+
+#: ../pay-with-a-like.php:931
+#: ../pay-with-a-like.php:1044
+msgid "Pay With a Like Settings"
+msgstr "Заплати &laquo;Лайк&raquo;-ом: настройки"
+
+#: ../pay-with-a-like.php:978
+msgid "<b>Settings Saved</b>"
+msgstr "Настройки сохранены"
+
+#: ../pay-with-a-like.php:985
+msgid "<b>[Pay With a Like]</b> You are not authorised to do this."
+msgstr "У Вас нет полномочий для выполнения этих действий."
+
+#: ../pay-with-a-like.php:994
+msgid "<b>[Pay With a Like]</b> You didn't select any buttons. Plugin will not function as expected."
+msgstr "Вы не выбрали ни одной кнопки!"
+
+#: ../pay-with-a-like.php:1009
+#, php-format
+msgid "<b>[Pay With a Like]</b> It looks like you have just installed me. You may want to adjust some %s. If you are using a cache plugin, please clear your cache."
+msgstr "Вы успешно установили плагин - теперь необходимо произвести некоторые %s. Если Вы используете какой-либо кэширущий плагин, предварительно очистите кэш браузера."
+
+#: ../pay-with-a-like.php:1009
+msgid "settings"
+msgstr "настройки"
+
+#: ../pay-with-a-like.php:1036
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У Вас нет достаточных полномочий для доступа к этой странице."
+
+#: ../pay-with-a-like.php:1051
+msgid "Global Settings"
+msgstr "Глобальные настройки"
+
+#: ../pay-with-a-like.php:1053
+msgid "Pay With a Like allows protecting posts/pages or parts of posts/pages until visitor likes the protected content with Facebook, Linkedin, Twitter or Google +1. These settings provide a quick way to set Pay With a Like for your posts and pages. They can be overridden per post basis using post editor page."
+msgstr "Плагин Заплати «Лайк»-ом позволяет закрывать от всеобщего доступа посты или страницы, пока посетитель Вашего блога не порекомендует этот пост своим друзьям в социальных сетях (Фейсбук, Твиттер и др.), нажав кнопку «Лайк». Сразу же после рекомендации посетитель получает возможность видеть весь скрытый контент данного поста."
+
+#: ../pay-with-a-like.php:1058
+msgid "Activation for posts"
+msgstr "Активация для постов"
+
+#: ../pay-with-a-like.php:1061
+msgid "Disabled for all posts"
+msgstr "Выключено для всех постов"
+
+#: ../pay-with-a-like.php:1062
+msgid "Enabled for all posts"
+msgstr "Включено для всех постов"
+
+#: ../pay-with-a-like.php:1068
+msgid "Activation for pages"
+msgstr "Активация для страниц"
+
+#: ../pay-with-a-like.php:1071
+msgid "Disabled for all pages"
+msgstr "Выключено для всех страниц"
+
+#: ../pay-with-a-like.php:1072
+msgid "Enabled for all pages"
+msgstr "Включено для всех страниц"
+
+#: ../pay-with-a-like.php:1084
+msgid "You have the following custom post type(s): "
+msgstr "Сейчас в Вашем блоге имеются следующие специальные типы контента:&nbsp;"
+
+#: ../pay-with-a-like.php:1088
+msgid " Note: See the below customization section for details."
+msgstr "<br />Важно: в связи с этим смотрите ниже блок настроек &laquo;Кастомизация&raquo;"
+
+#: ../pay-with-a-like.php:1090
+msgid "You don't have any custom post types. Changing this setting will have no effect."
+msgstr "У Вас нет специальных типов постов. Изменение этой опции ни на что не повлияет."
+
+#: ../pay-with-a-like.php:1094
+msgid "Activation for custom post types"
+msgstr "Активация для специальных типов контента (custom posts)"
+
+#: ../pay-with-a-like.php:1097
+msgid "Disabled for all custom post types"
+msgstr "Выключено для всех специальных типов постов"
+
+#: ../pay-with-a-like.php:1098
+msgid "Enabled for all custom post types"
+msgstr "Включено для всех специальных типов постов"
+
+#: ../pay-with-a-like.php:1105
+msgid "Revealed content selection method"
+msgstr "Метод формирования тизера (интригующего анонса статьи)"
+
+#: ../pay-with-a-like.php:1108
+msgid "Automatic excerpt from the content"
+msgstr "Автоматически"
+
+#: ../pay-with-a-like.php:1109
+msgid "Manual excerpt from post excerpt field"
+msgstr "Из поля &laquo;Цитата&raquo;"
+
+#: ../pay-with-a-like.php:1113
+#, php-format
+msgid "With this setting, you can select the method that reveals the part of your contents *before* a Like is clicked. Automatic excerpt selects the first %d words, number being adjustable from \"excerpt length\" field. Manual excerpt displays whatever included in the post excerpt field of the post. With selection tool, you can freely select part(s) of the content to be protected. Using the latter one may be a little bit sophisticated, but enables more than one Likes on the same page."
+msgstr "Эта опция определяет метод формирования той части поста (тизера), которую посетитель может видеть до того, как кликнет по одной из кнопок &laquo;Лайк&raquo;. В автоматическом режиме тизер по-умолчанию формируется из первых %d слов (их количество необходимо указать в поле &laquo;Количество слов в тизере&raquo;. В режиме &laquo;Из поля цитата&raquo; Вам придется вручную заполнять это поле при создании/редактировании поста. При выборе метода &laquo;С помощью шорткода&raquo; воспользуйтесь специальной кнопкой в панели текстового редактора для выделения той части контента, которую необходимо скрыть. Последний способ может показаться несколько сложным, но зато позволит Вам использовать несколько закрытых блоков текста в одном посте."
+
+#: ../pay-with-a-like.php:1128
+msgid "Excerpt length (words)"
+msgstr "Количество слов в тизере"
+
+#: ../pay-with-a-like.php:1130
+msgid "Number of words of the post content that will be displayed publicly. Only effective if Automatic excerpt is selected."
+msgstr "Количество первых слов из текста поста, которые сформируют доступный для всеобщего обозрения анонс. Работает только в режиме автоматического формирования тизера."
+
+#: ../pay-with-a-like.php:1138
+msgid "Accessibility Settings"
+msgstr "Настройки доступа к контенту"
+
+#: ../pay-with-a-like.php:1144
+msgid "Enable on the home page"
+msgstr "Включить для главной страницы"
+
+#: ../pay-with-a-like.php:1147
+#: ../pay-with-a-like.php:1157
+#: ../pay-with-a-like.php:1168
+#: ../pay-with-a-like.php:1179
+#: ../pay-with-a-like.php:1212
+#: ../pay-with-a-like.php:1308
+#: ../pay-with-a-like.php:1328
+msgid "Yes"
+msgstr "Да"
+
+#: ../pay-with-a-like.php:1148
+#: ../pay-with-a-like.php:1158
+#: ../pay-with-a-like.php:1169
+#: ../pay-with-a-like.php:1180
+#: ../pay-with-a-like.php:1213
+#: ../pay-with-a-like.php:1309
+#: ../pay-with-a-like.php:1329
+msgid "No"
+msgstr "Нет"
+
+#: ../pay-with-a-like.php:1154
+msgid "Enable for multiple post pages"
+msgstr "Включить для архивов (рубрик)"
+
+#: ../pay-with-a-like.php:1160
+msgid "Enables the plugin for pages (except the home page) which contain content for more that one post/page, e.g. archive, category pages. Some themes use excerpts here so enabling plugin for these pages may cause strange output. "
+msgstr "Включает плагин на страницах, содержащих более одного поста (кроме главной), т.е. в архивах и рубриках.  Некоторые темы сами формируют анонсы постов, что может в сочетании с их обработкой плагином привести к неожиданному результату."
+
+#: ../pay-with-a-like.php:1165
+msgid "Admin sees full content"
+msgstr "Администратор может видеть весь контент"
+
+#: ../pay-with-a-like.php:1171
+msgid "You may want to select No for test purposes."
+msgstr "Это может пригодиться."
+
+#: ../pay-with-a-like.php:1176
+msgid "Authorized users see full content"
+msgstr "Авторизованные пользователи могут видеть закрытый контент."
+
+#: ../pay-with-a-like.php:1182
+msgid "If Yes, authorized users will see the full content without the need to like a content. Authorization level will be revealed after you select yes. Admin setting is independent of this one."
+msgstr "Если &laquo;Да&raquo;, авторизованным пользователям будут доступны закрытые блоки текста в постах, без необходимости нажимать кнопки &laquo;Лайк&raquo;."
+
+#: ../pay-with-a-like.php:1196
+msgid "User level where authorization starts"
+msgstr "Уровень доступа пользователя (роль) для авторизации"
+
+#: ../pay-with-a-like.php:1199
+msgid "Editor"
+msgstr "Редактор"
+
+#: ../pay-with-a-like.php:1200
+msgid "Author"
+msgstr "Автор"
+
+#: ../pay-with-a-like.php:1201
+msgid "Contributor"
+msgstr "Участник"
+
+#: ../pay-with-a-like.php:1202
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: ../pay-with-a-like.php:1204
+msgid "If the above field is selected as yes, users having a higher level than this selection will see the full content."
+msgstr "Если параметр вверху установлен как &laquo;Да&raquo;, только пользователи, имеющие более высокий уровень, чем указанный здесь, будут иметь доступ к скрытому контенту."
+
+#: ../pay-with-a-like.php:1209
+msgid "Search bots see full content"
+msgstr "Закрытый контент доступен поисковым роботам"
+
+#: ../pay-with-a-like.php:1215
+msgid "You may want to enable this for SEO purposes. Warning: Your full content may be visible in search engine results."
+msgstr "Вам это может понадобится из соображений SEO-оптимизации. Внимание! Скрытые блоки текста могут выводиться в результатах поисковых запросов."
+
+#: ../pay-with-a-like.php:1220
+msgid "Cookie validity time (hours)"
+msgstr "Время жизни файлов куки (в часах)"
+
+#: ../pay-with-a-like.php:1222
+msgid "Validity time of the cookie which lets visitor to be exempt from the protection after he/she liked. Tip: If you want the cookie to expire at the end of the session (when the browser is closed), enter zero here."
+msgstr "Время, в течение которого посетитель сможет видеть скрытый контент, после того, как он кликнул по кнопке &laquo;Лайк&raquo;. Если Вы хотите, чтобы доступ пользователя прекращался сразу после того, как он закроет браузер, введите сюда 0 (ноль)."
+
+#: ../pay-with-a-like.php:1229
+msgid "Social Button Settings"
+msgstr "Настройки социальных кнопок"
+
+#: ../pay-with-a-like.php:1256
+msgid "Enter VK API ID!"
+msgstr "Введите идентификатор виджета (цифровой код, который можно получить <a href=\"http://vk.com/developers.php?oid=-1&p=Like\" target=\"_blank\">на этой странице</a>. Если этот идентификатор указан неправильно, кнопка &laquo;Лайк&raquo; отображаться не будет.)"
+
+#: ../pay-with-a-like.php:1266
+msgid "Buttons to use"
+msgstr "Доступные кнопки"
+
+#: ../pay-with-a-like.php:1269
+#: ../pay-with-a-like.php:1288
+msgid "VKontakte"
+msgstr "ВКонтакте"
+
+#: ../pay-with-a-like.php:1279
+msgid "VK API ID"
+msgstr "Идентификатор виджета (API ID)"
+
+#: ../pay-with-a-like.php:1281
+msgid "Unique ID of your Like-application in vk.com"
+msgstr ""
+
+#: ../pay-with-a-like.php:1285
+msgid "Load scripts for"
+msgstr ""
+
+#: ../pay-with-a-like.php:1292
+msgid "If you have other plugins which already use these scripts, duplicate load of them may create conflict. In that case uncheck related checkbox. If you are unsure and not having any issues, keep this settings checked."
+msgstr ""
+
+#: ../pay-with-a-like.php:1299
+msgid "Description above the buttons"
+msgstr ""
+
+#: ../pay-with-a-like.php:1301
+msgid "You may want to write something here that will encourage the visitor to click a button. If you want individual descriptions on post basis, use Selection Tool method and write description inside the tool."
+msgstr ""
+
+#: ../pay-with-a-like.php:1305
+msgid "Sitewide Like"
+msgstr ""
+
+#: ../pay-with-a-like.php:1311
+msgid "If selected yes, when visitor likes a single content, all protected content on the website will be revealed to him/her."
+msgstr ""
+
+#: ../pay-with-a-like.php:1316
+msgid "URL to be liked"
+msgstr ""
+
+#: ../pay-with-a-like.php:1320
+#, php-format
+msgid "You can enter a single URL to be liked, e.g. your home page, %s. NOT your page on the Social Networking Website, e.g. Facebook. If left empty, the page that button is clicked will be liked."
+msgstr ""
+
+#: ../pay-with-a-like.php:1325
+msgid "Like Random Page"
+msgstr ""
+
+#: ../pay-with-a-like.php:1331
+msgid "If selected yes, a random published page or post on your website will be selected to be liked. This disables \"URL to be liked\" setting."
+msgstr ""
+
+#: ../pay-with-a-like.php:1350
+msgid "Save Changes"
+msgstr ""
+
+#: ../pay-with-a-like.php:1360
+msgid "Basic Statistics"
+msgstr ""
+
+#: ../pay-with-a-like.php:1371
+msgid "No Data yet..."
+msgstr ""
+
+#: ../pay-with-a-like.php:1398
+msgid "VKontacte"
+msgstr ""
+
+#: ../pay-with-a-like.php:1408
+msgid "Total likes"
+msgstr ""
+
+#: ../pay-with-a-like.php:1414
+msgid "likes"
+msgstr ""
+
+#: ../pay-with-a-like.php:1429
+msgid "Most liked posts"
+msgstr ""
+
+#: ../pay-with-a-like.php:1448
+msgid "Clear Statistics"
+msgstr ""
+
+#: ../pay-with-a-like.php:1448
+msgid "Clicking this button deletes statistics saved on the server"
+msgstr ""
+
+#: ../pay-with-a-like.php:1453
+msgid "Export Statistics"
+msgstr ""
+
+#: ../pay-with-a-like.php:1453
+msgid "If you click this button a CSV file including statistics will be saved on your PC"
+msgstr ""
+
+#: ../pay-with-a-like.php:1468
+msgid "Customization Instructions"
+msgstr ""
+
+#: ../pay-with-a-like.php:1471
+msgid "Some custom post types use templates which take the post content directly from the database. For such applications you may need to use <b>wpmudev_pwal</b> function to manage the content."
+msgstr ""
+
+#: ../pay-with-a-like.php:1475
+msgid "Example: Suppose that the content of a post type is displayed like this: <code>&lt;?php echo custom_description(); ?&gt;</code>. Then edit that part of the template like this:"
+msgstr ""
+
+#: ../pay-with-a-like.php:1492
+#, php-format
+msgid "If you want to apply your own styles copy and rename the default css file <b>%s</b> as <b>%s</b> and edit this latter file. Then, your edited styles will not be affected from plugin updates."
+msgstr ""
+
+#: ../pay-with-a-like.php:1504
+msgid "Are you sure to clear statistics?"
+msgstr ""
+
+#: ../pay-with-a-like.php:1511
+msgid "Statistics cleared..."
+msgstr ""
+
+#: ../pay-with-a-like.php:1529
+msgid "Statistics could not be deleted"
+msgstr ""
+
+#: ../pay-with-a-like.php:1537
+#: ../pay-with-a-like.php:1555
+msgid "Nothing to download!"
+msgstr ""
+
+#: ../pay-with-a-like.php:1641
+msgid "Please enter a value!"
+msgstr ""
+
+#: ../pay-with-a-like.php:1645
+msgid "Description"
+msgstr ""
+
+#: ../pay-with-a-like.php:1649
+msgid "Description for this selection."
+msgstr ""
+
+#: ../pay-with-a-like.php:1657
+msgid "Cancel"
+msgstr ""
+
+#: ../pay-with-a-like.php:1661
+msgid "Insert"
+msgstr ""
+
+#: ../includes/class_wd_help_tooltips.php:298
+msgid "Help"
+msgstr ""
+
