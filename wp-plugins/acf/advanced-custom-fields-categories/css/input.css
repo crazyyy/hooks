@@ -1,0 +1,30 @@
+.cat-buttons {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.cat-buttons a {
+	margin-right: 10px;
+	text-decoration: none;
+}
+
+.acf-subcategory {
+	padding-right: 2px;
+}
+
+.cat-toggle-btn {
+	text-decoration: none;
+}
+
+.cat-post-count {
+	font-size: 10px;
+	width: 20px;
+	height: 20px;
+	padding-top: 1px;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;;
+	margin-left: 5px;
+	display: inline-block;
+	background-color: #DDDDDD;
+	text-align: center;
+}

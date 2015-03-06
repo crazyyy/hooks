@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Drive CDN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-18 14:24+0100\n"
+"PO-Revision-Date: 2014-02-18 14:26+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
+"Language-Team: WP-Buddy <info@wp-buddy.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_google_drive_cdn.php:201
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../../classes/wpb_google_drive_cdn.php:202
+msgid "More Plugins by WPBuddy"
+msgstr "Mehr Plugins von WPBuddy"
+
+#: ../../classes/wpb_google_drive_cdn.php:220
+msgid "Google Drive CDN"
+msgstr "Google Drive CDN"
+
+#: ../../classes/wpb_google_drive_cdn.php:266
+msgid "1. Enable the Drive API"
+msgstr "1. Drive API aktivieren"
+
+#: ../../classes/wpb_google_drive_cdn.php:269
+msgid "2. Connect with your Google Drive"
+msgstr "2. Mit Google Drive konnektieren"
+
+#: ../../classes/wpb_google_drive_cdn.php:273
+msgid "3. Instructions - READ THIS CAREFULLY"
+msgstr "3. Anleitung - LESE DIES SORGFÄLTIG"
+
+#: ../../classes/wpb_google_drive_cdn.php:277
+msgid "4. Settings"
+msgstr "4. Einstellungen"
+
+#: ../../classes/wpb_google_drive_cdn.php:280
+msgid "Error Logs, hints and statistics"
+msgstr "Fehlerprotokoll, Hinweise und Statistiken"
+
+#: ../../classes/wpb_google_drive_cdn.php:283
+msgid "About"
+msgstr "Über"
+
+#: ../../classes/wpb_google_drive_cdn.php:286
+msgid "Helpful links"
+msgstr "Hilfreiche Links"
+
+#: ../../classes/wpb_google_drive_cdn.php:289
+msgid "Like this plugin?"
+msgstr "Du magst dieses Plugin?"
+
+#: ../../classes/wpb_google_drive_cdn.php:292
+msgid "Get our free Newsletter"
+msgstr "Kostenlosen Newsletter abonnieren"
+
+#: ../../classes/wpb_google_drive_cdn.php:298
+msgid "Local cache has been cleared."
+msgstr "Lokale Cache wurde gelöscht."
+
+#: ../../classes/wpb_google_drive_cdn.php:301
+msgid "All files created by this plugin have been trashed."
+msgstr ""
+"Alle Dateien die durch dieses Plugin erstellt wurden, wurden in den Google "
+"Drive Papierkorb verschoben."
+
+#: ../../classes/wpb_google_drive_cdn.php:304
+msgid "Google Drive as been disconnected"
+msgstr "Google Drive wurde getrennt"
+
+#: ../../classes/wpb_google_drive_cdn.php:307
+msgid "Error log has been cleared."
+msgstr "Das Fehlerprotokoll wurde gelöscht."
+
+#: ../../classes/wpb_google_drive_cdn.php:313
+msgid "Sync / Upload started..."
+msgstr "Synchronisation / Upload wurde gestartet..."
+
+#: ../../classes/wpb_google_drive_cdn.php:316
+msgid ""
+"Sync will be stopped after the current file has been uploaded successfully."
+msgstr ""
+"Die Synchronisierung wird abgebrochen nachdem die aktuelle Datei erfolgreich "
+"hochgeladen wurde."
+
+#: ../../classes/wpb_google_drive_cdn.php:324
+msgid "Google Drive CDN Settings"
+msgstr "Google Drive CDN Einstellungen"
+
+#: ../../classes/wpb_google_drive_cdn.php:395
+msgid "Google's API returned an error!"
+msgstr "Google's API hat einen Fehler zurückgegeben."
+
+#: ../../classes/wpb_google_drive_cdn.php:836
+msgid "Clear CDN cache"
+msgstr "CDN Cache leeren"
+
+#: ../../classes/wpb_google_drive_cdn.php:842
+msgid "Clear the Google to WordPress CDN cache"
+msgstr "Den Google Drive CDN Cache leeren"
+
+#: ../../classes/wpb_google_drive_cdn.php:859
+msgid "CDN sync in progress! Click here to stop."
+msgstr "CDN Synchronisation ist im Gange. Klicke hier um zu stoppen."
+
+#: ../../classes/wpb_google_drive_cdn.php:861
+msgid "CDN upload in progress! Click here to stop."
+msgstr "CDN Upload ist im Gange. Klicke hier um zu stoppen."
+
+#: ../../classes/wpb_google_drive_cdn.php:866
+msgid "Stopping CDN sync/upload ..."
+msgstr "CDN Synchronisierung / Upload wird gestoppt ..."
+
+#: ../../classes/wpb_google_drive_cdn.php:876
+msgid ""
+"The Google Drive CDN plugin currently syncs or uploads your items to your "
+"Google Drive storage."
+msgstr ""
+"Das Google Drive CDN Plugin synchronisiert im Moment einige Deiner Dateien "
+"mit Deinem Google Drive."
+
+#: ../../classes/wpb_google_drive_cdn.php:1435
+msgid "Once a week"
+msgstr "Einmal pro Woche"
+
+#: ../../classes/wpb_google_drive_cdn.php:1436
+msgid "Every 2th week"
+msgstr "Jede zweite Woche"
+
+#: ../../classes/wpb_google_drive_cdn.php:1437
+msgid "Every 3rd week"
+msgstr "Jede dritte Woche"
+
+#: ../../classes/wpb_google_drive_cdn.php:1438
+msgid "Once a month"
+msgstr "Einmal im Monat"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:47
+msgid ""
+"First, you need to enable the Drive API for the plugin. You can do this in "
+"your app's API project in the Google Cloud Console."
+msgstr ""
+"Zuerst muss die Drive-API aktiviert werden. Diese Einstellung triffst du im "
+"Projekt in der Google Cloud Console."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:48
+#, php-format
+msgid ""
+"<strong>Please note</strong> that Google always tends to change things "
+"quickly. They have changed the way to register apps three times in the year "
+"2013. So it can be that the little \"How to\" below is outdated when you "
+"have bought the plugin. In this case, please visit the FAQ page of the "
+"plugin to get the latest version of the How-To: %s"
+msgstr ""
+"<strong>Bitte beachte folgendes:</strong> Google neigt dazu, Dinge sehr "
+"schnell zu verändern. Im Jahr 2013 haben sie den Vorgang, eine App zu "
+"registrieren, dreimal geändert. Das bedeutet, dass das kleine \"How-To\" "
+"unten eventuell nicht mehr ganz korrekt ist, wenn Du das Plugin gekauft "
+"hast. In diesem Fall kannst Du gerne mal auf unsere FAQ-Seite wechseln. Dort "
+"findest du immer die aktuellste Anleitung: %s"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:48
+msgid "Google Drive as CDN FAQ page"
+msgstr "Google Drive als CDN FAQ Seite (englisch)"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:51
+#, php-format
+msgid ""
+"You need a Google account. You do not have a Google account? Click here to "
+"create one: %s"
+msgstr ""
+"Du benötigst ein Google Konto. Wenn Du keines hast, kannst Du hier eines "
+"erstellen: %s"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:52
+#, php-format
+msgid ""
+"Create an API project in the Google Cloud Console (former Google API "
+"Console) by following this link: %s"
+msgstr ""
+"Erstelle ein API-Projekt in Google’s Cloud Console (vorher: „Google API "
+"Console“) indem du folgendem Link folgst: %s"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:53
+msgid ""
+"Click the red \"Create Project\" button and type in a name (ex. \"WordPress "
+"to Google Drive\") and a project ID (like \"wp-to-gd\" - should be unique)"
+msgstr ""
+"Klicke auf den roten „Create Project“ Button, gib einen Namen (z.B. "
+"WordPress Google Drive“) und eine Projekt-ID (z.B. „wp-to-gd“ - sollte "
+"einzigartig sein) ein."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:54
+msgid ""
+"If done click \"APIs & auth\" -> \"APIs\" and activate the \"Drive API\" and "
+"\"Drive SDK\" (set the switch to ON)."
+msgstr ""
+"Fertig? Dann klicke auf „APIs & auth“ -> „APIs“ und aktiviere „Drive API“ "
+"und „Drive SDK“ (Schalter auf ON setzen)."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:55
+msgid "Then click the \"Consent screen\" link in the menu."
+msgstr "Dann klicke auf den „Consent screen“ link im Menü."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:56
+msgid "Type-in a product name (like \"WordPress to GoogleDrive\")."
+msgstr "Gebe einen Plugin-Namen ein (z.B. „WordPress to Google Drive“)."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:57
+msgid "Choose an E-Mail Address and save your settings."
+msgstr "Wähle eine E-Mail Adresse und speichere Deine Einstellungen."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:58
+msgid "Then click the \"APIs & auth\" -> \"Credentials\" link."
+msgstr "Dann klicke auf „APIs & auth“ -> „Credentials“ im Menü."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:59
+msgid "Click the red button which says \"Create New Client ID\"."
+msgstr "Klicke auf den roten „Create New Client ID“ Button."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:60
+msgid "Choose \"Web application\"."
+msgstr "Wähle \"Web application\"."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:61
+#, php-format
+msgid "Enter %s in the field \"Authorized Javascript origins\""
+msgstr "Gebe %s in das Feld \"Authorized Javascript origins\" ein."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:62
+#, php-format
+msgid "Enter %s in the \"Authorized Redirect URI\" field"
+msgstr "Gebe %s in das Feld „Authorized Redirect URI“ ein."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:63
+msgid "Then click \"Create Client ID\"."
+msgstr "Klick auf \"Create Client ID\"."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:64
+msgid "You should now see all the information that are required."
+msgstr "Du solltest nun alle Daten sehen, die Du benötigst."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:65
+msgid ""
+"Copy&Paste the Client ID and the Client Secret in the text fields below."
+msgstr ""
+"Kopiere die Client ID sowie den Client Secret in die unten stehenden "
+"Textfelder."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:94
+msgid ""
+"Please note: you will be redirected to a Google's authorization page. Please "
+"press the blue button to give this application the right to upload files."
+msgstr ""
+"Bitte beachten: Du wirst zunächst auf eine Google-Autorisierungs-Seite "
+"geleitet. Klicke dort auf den blauen Button um diesem Plugin das Hochladen "
+"von Dateien zu erlauben."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:96
+msgid "Grant writing permissions to your Google Drive"
+msgstr "Gewähre dem Plugin Schreibrechte auf Ihr Google Drive Konto"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:99
+msgid "The Google Drive API is currently not working."
+msgstr "Die Google Drive API scheint im Moment nicht zu funktionieren."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:99
+msgid ""
+"Try to (re-)authenticate by using the button \"Grant writing permissions to "
+"your Google Drive\" button."
+msgstr ""
+"Versuche das Plugin erneut mit dem Plugin zu verbinden indem Du auf den "
+"Button \"Gewähren Sie dem Plugin Schreibrechte auf Ihr Google Drive Konto\" "
+"klickst."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:143
+msgid "Installation manual"
+msgstr "Installationsanleitung"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:146
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:149
+msgid "Report a bug"
+msgstr "Einen Fehler melden"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:152
+msgid "Request a function"
+msgstr "Eine neue Funktion wünschen"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:155
+msgid "Submit a translation"
+msgstr "Eine Übersetzung einreichen"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:158
+msgid "More cool stuff by WPBuddy"
+msgstr "Weitere Produkte von WPBuddy"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:222
+msgid "Your first name"
+msgstr "Dein Vorname"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:224
+msgid "Your E-Mail address"
+msgstr "Deine E-Mail Adresse"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:226
+msgid "Subscribe"
+msgstr "Eintragen"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:264
+#, php-format
+msgid ""
+"You are now ready to go! The plugin has created a folder named %1$s on your "
+"Google Drive. Click here to view all files: %2$s"
+msgstr ""
+"Das Plugin ist fertig eingerichtet! Es hat einen Ordner mit dem Namen %1$s "
+"auf Ihrem Google Drive Laufwerk erstellt. Klicke hier um alle Dateien jetzt "
+"anzusehen: %2$s"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:269
+msgid "The plugin works like this:"
+msgstr "Das Plugin funktioniert folgendermaßen:"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:272
+msgid ""
+"If anyone visits a page of your website, the plugin searches for files that "
+"can be uploaded to Google Drive."
+msgstr ""
+"Wenn irgend jemand eine deiner Seiten besucht beginnt das Plugin nach "
+"Dateien zu suchen, die noch nicht zu Deinem Google Drive Laufwerk "
+"hochgeladen wurden."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:273
+msgid ""
+"If the file is not yet uploaded to Google Drive the plugin will put it down "
+"into the cache-database for a later upload."
+msgstr ""
+"Wenn eine Datei noch nicht hochgeladen wurde, wird sie in einer Cache-"
+"Datenbank erfasst und für den späteren Upload vorgemerkt."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:274
+msgid ""
+"Every hour the plugin reads all these entries from the cache-database to "
+"sync files to your Google Drive that have not yet been synced."
+msgstr ""
+"Das Plugin liest stündlich jeden dieser Einträge aus und synchronisiert die "
+"Dateien zu Deinem Google Drive Laufwerk, die dort noch nicht hochgeladen "
+"wurden."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:275
+msgid "Synced files can then be served directly from your Google Drive."
+msgstr ""
+"Synchronisierte Dateien können direkt von Deinem Google  Drive Laufwerk "
+"ausgeliefert werden."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:276
+msgid ""
+"You can manually start syncing the files that have been written to the cache-"
+"database by clicking the \"Sync local CDN\"-button."
+msgstr ""
+"Du kannst die Synchronisation der Dateien die in der Cache-Datenbank liegen "
+"sofort manuell starten indem Du auf den Button \"Lokales CDN synchronisieren"
+"\" drückst."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:277
+msgid ""
+"From time to time every single file gets located and uploaded to Google "
+"Drive. Because of this process the speed of your website should improve "
+"continuously."
+msgstr ""
+"Von Zeit zu Zeit werden immer mehr Dateien zu Deinem Google Drive Laufwerk "
+"hochgeladen. Deswegen wird deine Webseite von Zeit zu Zeit immer schnell "
+"werden."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:280
+msgid "Please note:"
+msgstr "Bitte beachte folgendes:"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:282
+msgid ""
+"It is recommended to use a \"caching plugin\" like WP-Super-Cache to "
+"significantly improve page load time."
+msgstr ""
+"Es wird der Einsatz eines \"Caching Plugins\" wie z.B. WP-Super-Cache "
+"empfohlen um die Ladezeit der Website weiter zu verkürzen."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:283
+msgid ""
+"You can start sync your local media library to Google Drive using the \"Sync "
+"my media library now\"-button. Depending on the size of your media library "
+"this will take some time."
+msgstr ""
+"Du kannst Deine lokale WordPress-Mediathek sofort auf dein Google Drive "
+"Laufwerk hochladen indem du auf den Button \"Meine Mediathek synchronisieren"
+"\" drückst. Abhängig von der Größe deiner aktuellen Mediathek kann das "
+"einige Zeit in Anspruch nehmen."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:284
+msgid ""
+"Google Drive delivers all files via secure SSL. If you are not using SSL on "
+"your domain you should remove CSS files from the file extensions field "
+"below. This is because it can lead to the \"Mixed Content Blocker\" problem "
+"some browsers have when your CSS file tries to import Non-SSL files via the "
+"@import function. The plugin will automatically stop referring to CSS files "
+"on Google Drive if it detects that your domain does not support SSL."
+msgstr ""
+"Google Drive liefert alle Dateien über SSL aus. Wenn Du kein SSL auf deiner "
+"Domain nutzt solltest du die CSS-Dateierweiterung aus der Liste der "
+"Dateierweiterungen unten löschen. Das Plugin muss das so handhaben um die "
+"User vor dem so genannten \"Mixed Content Blocker\" Problem zu bewahren. "
+"Einige Browser blockieren z.B. das Nachladen von Dateien in CSS Dateien "
+"(über die @import Funktion) wenn die dort aufgerufenen Dateien nicht auch "
+"über SSL aufgerufen wird. Das Plugin versucht automatisch herauszufinden ob "
+"Du SSL nutzt. Falls nicht, wird CSS deaktiviert."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:285
+msgid ""
+"As per default this plugin syncs new or updated files every hour. This can "
+"cause problems if you're using a WordPress theme which change files on the "
+"file system. Try to manually sync files after changing any theme-related "
+"things."
+msgstr ""
+"In der Standardeinstellungen synchronisiert dieses Plugin neue oder "
+"veränderte Dateien jede Stunde. Das könnte Probleme mit einigen WordPress "
+"Themes verursachen falls diese Dateien auf dem Dateisystem verändern. "
+"Versuche einfach, die Synchronisation manuell zu starten, nachdem Du am "
+"Theme etwas verändert hast."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:383
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:385
+msgid "Number of total file entries in the cache database."
+msgstr "Anzahl der gesamten Einträge in der Datenbank."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:386
+msgid "Number of synced files."
+msgstr "Anzahl aller synchronisierten Dateien."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:387
+msgid "Number of files that have not yet been synced or can't be synced."
+msgstr ""
+"Anzahl der Dateien die noch nicht hochgeladen wurden oder aber nicht "
+"hochgeladen werden können."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:388
+msgid "Date of the next automatic sync/update process."
+msgstr ""
+"Datum des nächsten, automatischen Synchronisierungs- oder Uploadprozesses."
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:396
+msgid "Errors & Hints"
+msgstr "Fehler & Hinweise"
+
+#: ../../classes/wpb_google_drive_cdn_metaboxes.php:404
+msgid "Delete Logs"
+msgstr "Protokoll löschen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:97
+msgid "Client ID"
+msgstr "Client ID"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:108
+msgid "Client secret"
+msgstr "Client Secret"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:119
+msgid "Purchase Code"
+msgstr "Kaufcode (Purchase Code)"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:130
+msgid "Change temp dir"
+msgstr "Temporären Ordner ändern"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:141
+msgid "Temp. dir"
+msgstr "Temporärer Ordner"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:152
+msgid "IO Method"
+msgstr "IO Methode"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:174
+msgid "Only replace every"
+msgstr "Nur jedes"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:185
+msgid "Cache time"
+msgstr "Cachezeit"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:196
+msgid "Sync / Upload interval"
+msgstr "Synchronisierungs- / Upload-Intervall"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:207
+msgid "Never sync / Upload new files only"
+msgstr "Niemals synchronisieren / Nur neue Dateien hochladen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:218
+msgid "File extensions"
+msgstr "Dateierweiterungen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:229
+msgid "Excluded files"
+msgstr "Ausgegrenzte Dateien"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:240
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:377
+msgid "file"
+msgstr "Datei hochladen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:378
+msgid ""
+"Increasing this number can improve load time because your own server can "
+"deliver files, too. Not every single file should be delivered from your "
+"Google Drive. It is better to spread them across multiple servers."
+msgstr ""
+"Die Erhöhung dieser Zahl kann die Ladezeit drastisch erhöhen, weil Dein "
+"eigener Server ebenfalls Dateien ausliefern kann. Nicht jede einzelne Datei "
+"sollte auf dem Google Drive gespeichert werden. Es ist besser, die Dateien "
+"auf mehrere Server zu verteilen."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:396
+msgid ""
+"hours (It's recommend to leave this empty because static files do not change "
+"very often.)"
+msgstr ""
+"h (Es wird empfohlen, dieses Feld leer zu lassen weil sich statische Dateien "
+"selten ändern)."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:397
+msgid ""
+"Please specify how long the URLs should be cached. Set to 0 to deactivate. "
+"Leave it blank to store the files for an indefinite period."
+msgstr ""
+"Bitte gebe an, wie lange die URLs zwischengespeichert werden sollen. Setze "
+"den Wert auf 0 um Caching zu deaktivieren. Lasse das Feld leer, wenn die "
+"URLs auf unbestimmte Zeit gespeichert werden sollen."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:421
+msgid ""
+"How often the files should be synced. If you have a very large media library "
+"you should consider doing this not too often because it will need a lot of "
+"resources on your webserver."
+msgstr ""
+"Wie oft die Dateien synchronisiert werden sollen. Wenn Du eine sehr große "
+"Mediathek hast solltest Du die Synchronisierung nicht zu oft durchführen, da "
+"sehr viele Webserver-Resourcen benötigt werden."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:440
+msgid ""
+"File extensions to search for (comma separated). Note that already uploaded "
+"files remain in Google Drive if a file extension is removed. Clear your "
+"local CDN cache after updating this field."
+msgstr ""
+"Dateierweiterungen nach denen gesucht werden soll (durch Komma getrennt). "
+"Bitte beachte, dass bereits hochgeladene Dateien im Google Drive verbleiben "
+"falls beispielsweise eine Dateiendung entfernt wird. Leere den lokalen CDN-"
+"Cache nachdem Du die Liste der Dateierweiterungen verändert hast."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:441
+msgid ""
+"The plugin found out that you are currently not using SSL. To prevent "
+"\"Mixed Content Blocker\" warnings some browsers produce, no CSS files will "
+"be used from your Google Drive."
+msgstr ""
+"Das Plugin hat herausgefunden, dass Du im moment kein SSL benutzt. Um so "
+"genannte „Mixed Content Blocker“ Warnungen zu unterdrücken werden keine CSS "
+"Dateien von Deinem Google Drive ausgeliefert."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:461
+msgid "Add full URLs of files you want to exclude. One per line."
+msgstr ""
+"Füge eine URL einer Datei hinzu, die nicht gecached werden soll. Eine pro "
+"Zeile."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:480
+msgid ""
+"Activate this if you're getting a \"open_basedir restriction in effect\" "
+"error."
+msgstr ""
+"Aktiviere das Häkchen wenn Du einen \"open_basedir Restriktion in effect\" "
+"Fehler erhälst."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:480
+#: ../../classes/wpb_google_drive_cdn_settings.php:501
+msgid "Read more about it here. (Question #15)"
+msgstr "Erfahre hier mehr darüber. (Frage 15, englisch)"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:501
+msgid ""
+"This is the path to a writable folder. Only set when \"Change temp dir\" is "
+"activated."
+msgstr ""
+"Dies ist der Pfad zu Verzeichnis der vom Webserver beschreibbar ist. Ist nur "
+"aktiv wenn \"Temporärer Ordner ändern\" aktiv ist."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:521
+msgid "Curl"
+msgstr "Curl"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:522
+msgid "HTTP Stream"
+msgstr "HTTP Stream"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:525
+msgid ""
+"If you have problems to connect to the Google Drive API you can change the "
+"IO Method here. If neither Curl nor HTTP Stream works please ask your "
+"hosting provider to activate at least the PHP curl functions."
+msgstr ""
+"Wenn Du Probleme hast das Plugin mit Google Drive zu verbinden, dann ändere "
+"die IO (Input/Output) Methode hier. Wenn weder Curl noch HTTP Stream "
+"funktioniert, nehme bitte Kontakt zu Deinem Hosting-Provider auf. Er sollte "
+"mindestens PHPs Curl-Funktionen aktivieren."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:540
+#, php-format
+msgid ""
+"In order to get automatic updates you should copy and paste your purchase "
+"code here. If you do not know where to get your purchase code, please click "
+"here: %s"
+msgstr ""
+"Um automatische Update zu erhalten, benötigt das Plugin Ihren Kaufcode "
+"(engl. Purchase Code). Wenn Du nicht weißt, wo Du Ihn finden kannst, klicke "
+"bitte hier: %s"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:540
+msgid "Where to find your purchase code"
+msgstr "Wo finde ich den Purchase Code? (engl.)"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:563
+msgid "Disconnect"
+msgstr "Trennen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:564
+msgid ""
+"Disconnects your Website from Google Drive. It does not delete any files."
+msgstr ""
+"Trennt Deine Webseite von Deinem Google Drive. Es werden keine Dateien "
+"gelöscht."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:574
+msgid "Clear local CDN cache"
+msgstr "Lokalen CDN-Cache leeren"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:575
+msgid ""
+"Clears the local cache (which means that all links from local to Google "
+"Drive files will be lost and the plugin has to fetch it again)."
+msgstr ""
+"Leert den aktuellen Cache. Das bedeutet, dass alle Verbindungen der lokalen "
+"Dateien zu den Google-Drive Dateien verloren gehen. Das Plugin muss die "
+"Dateien dann neu zuordnen."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:585
+msgid "Trash CDN files"
+msgstr "CDN-Dateien in den Papierkorb schieben"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:586
+msgid ""
+"Moves all cached files to the Google Drive trash. It does not delete any "
+"files. You have to delete these files yourself."
+msgstr ""
+"Verschiebt alle Cache-Dateien in den Google-Drive Papierkorb. Es werden "
+"keine Dateien gelöscht. Du musst die Dateien selbst vom Papierkorb löschen."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:596
+msgid "Sync local CDN"
+msgstr "Lokales CDN synchronisieren"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:596
+msgid "Upload new files"
+msgstr "Neue Dateien hochladen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:597
+msgid ""
+"Syncs the local CDN Cache database with your Google Drive folder. Existing "
+"files will be updated (if necessary). Files that are not yet on Google Drive "
+"will be uploaded."
+msgstr ""
+"Synchronisiert den lokalen CDN-Cache (Datenbank) mit Deinem Google Drive "
+"Verzeichnis. Bereits existierende Dateien werden dabei geupdated (falls "
+"nötig). Dateien die noch nicht hochgeladen wurden, werden hochgeladen."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:607
+msgid "Sync my media library now"
+msgstr "Meine Mediathek synchronisieren"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:610
+msgid ""
+"This syncs your media library. Leave this page if you want to stop syncing."
+msgstr ""
+"Synchronisierung Deiner Mediathek. Verlasse die aktuelle Seite, wenn Du die "
+"Synchronisierung abbrechen willst."
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:620
+msgid "Stop current sync process"
+msgstr "Den aktuellen Synchronisierungsprozess stoppen"
+
+#: ../../classes/wpb_google_drive_cdn_settings.php:637
+msgid ""
+"If this is checked, the plugin will never sync your media library. It will "
+"only upload new files that haven't been uploaded yet. Great for very large "
+"websites."
+msgstr ""
+"Wenn dies aktiviert wurde, wird die Mediathek nie synchronisiert. Das Plugin "
+"wird nur neue Dateien hochladen, die noch nicht hochgeladen wurden. Nützlich "
+"für wirklich sehr große Webseiten."
+
+#: ../../classes/wpb_plugin.php:730
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
+"Du solltest darüber nachdenken, deinen Kaufcode (engl. \"Purchase Code\") "
+"für das %s Plugin einzugeben da du automatisch über jedes Update informiert "
+"wirst und es direkt über deine WordPress-Installation einbinden kannst."
